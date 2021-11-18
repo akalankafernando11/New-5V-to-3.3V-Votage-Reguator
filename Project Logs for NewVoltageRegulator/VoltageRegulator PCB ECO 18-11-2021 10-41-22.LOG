@@ -1,0 +1,7 @@
+Change Component Comment : Designator= Old Comment=RT1993 New Comment=3.3V
+Change Component Designator: OldDesignator= NewDesignator=RT1993
+Change Net Name : Old Net Name=Net_1 New Net Name=NetCIN_2
+Change Net Name : Old Net Name=Net_3 New Net Name=NetR2_2
+Change Net Name : Old Net Name=Net_4 New Net Name=NetCBP_1
+Change Net Name : Old Net Name=Net_5 New Net Name=NetCOUT_2
+Added Room: Name=VoltageRegulator
